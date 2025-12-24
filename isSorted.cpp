@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+/* reworked it again */
 int main(){
     int n;
     cout<<"Enter the no of elements:";
